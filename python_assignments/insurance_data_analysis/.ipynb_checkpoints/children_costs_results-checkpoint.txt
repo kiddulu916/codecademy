@@ -1,0 +1,16 @@
+Insurance Cost Analysis by Number of Children
+==================================================
+
+Totals and Averages per Number of Children:
+   children  num_records  total_cost  average_cost
+0         0          574  7098070.00      12365.98
+1         1          324  4124899.67      12731.17
+2         2          240  3617655.30      15073.56
+3         3          157  2410784.98      15355.32
+4         4           25   346266.41      13850.66
+5         5           18   158148.63       8786.04
+
+Correlation Analysis:
+Pearson correlation: 0.0680 (p=0.01285)
+Spearman correlation: 0.1333 (p=9.847e-07)
+

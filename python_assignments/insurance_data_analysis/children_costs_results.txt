@@ -1,0 +1,22 @@
+Insurance Cost Analysis by Number of Children
+==================================================
+
+Weighted Totals, Averages, and Differences per Number of Children:
+   children  num_records  total_cost  average_cost  diff_prev  pct_of_change
+0         0          574  7098070.00      12365.98        NaN            NaN
+1         1          324  4124899.67      12731.17     365.19           2.95
+2         2          240  3617655.30      15073.56    2342.39          18.40
+3         3          157  2410784.98      15355.32     281.76           1.87
+4         4           25   346266.41      13850.66   -1504.66          -9.80
+5         5           18   158148.63       8786.04   -5064.62         -36.57
+
+Analysis Explanation:
+- The table above shows the total and average insurance costs for each group based on the number of children.
+- The 'diff_from_prev' column shows how much the average insurance cost changes as the number of children increases by one.
+- The 'pct_change_from_prev' column shows the percentage change in average cost from the previous group.
+
+Interpretation:
+- If the differences are consistently positive and large, it suggests insurance costs rise with more children. If differences are small or fluctuate, the relationship may be weak or non-linear.
+- Large jumps in certain groups may indicate thresholds where insurers increase rates more steeply.
+- If some groups show a decrease, it could suggest other factors are at play, or possible discounts for larger families.
+- This analysis helps identify trends and patterns that may not be obvious from overall averages alone.
