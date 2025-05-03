@@ -1,4 +1,5 @@
 - Age Analysis
+
 Total number of patients: 1338
 Patients ages range from: 18 - 64
 
@@ -15,12 +16,16 @@ Average age of patients that don't smoke: 39
 
 Average age of patients with at least 1 child: 39
 Average age of patients with 0 children: 38
+
 **With this analysis of ages that some of the data in some of the calculations is imbalanced there for not completely accurate.
+
 - Overall Insurance Costs Totals and Averages
+
 The total amount spent on insurance is: $17755824.99
 The average insurance cost of overall costs is: $13270.42
 
 - Insurance Cost Analysis by Sex
+
 Total insurance costs for males is: $9434763.8
 Total insurance costs for females is: $8321061.19
 Difference of total costs between males and females is: $1113702.6
@@ -30,6 +35,7 @@ Average insurance costs for females is: $12569.58
 Difference of average costs between males and females is: $1387.17
 
 - Insurance Cost Analysis by Smokers and Non-Smokers
+
 Total smoker costs: $8781763.52
 Total non-smoker costs: $8974061.47
 Difference in total costs between smokers and non-smokers: $192297.95
@@ -51,21 +57,22 @@ Male vs Female non-smoker total cost difference: $611891.77
 Male vs Female non-smoker average cost difference: $675.10
 
 - Insurance Cost Analysis by Number of Children
+
 Total insurance cost for people with 0 children: $7098070.0
 Average insurance cost for people with 0 children: $12365.98
-    
+
 Total insurance cost for people with 1 child: $4124899.67
 Average insurance cost for people with 1 child: $12731.17
-    
+
 Total insurance cost for people with 2 children: $3617655.3
 Average insurance cost for people with 2 children: $15073.56
-    
+
 Total insurance cost for people with 3 children: $2410784.98
 Average insurance cost for people with 3 children: $15355.32
-    
+
 Total insurance cost for people with 4 children: $346266.41
 Average insurance cost for people with 4 children: $13850.66
-    
+
 Total insurance cost for people with 5 children: $158148.63
 Average insurance cost for people with 5 children: $8786.04
 
